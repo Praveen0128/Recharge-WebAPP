@@ -1,2 +1,2 @@
 # recharge
-https://algorithm-unlocks.herokuapp.com/
+# by Praveen Kumar
