@@ -1,2 +1,2 @@
-# recharge
+# Recharge
 by Praveen Kumar
